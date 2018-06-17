@@ -6,7 +6,7 @@
 #include <list.hpp>
 using namespace List;
 using namespace std;
-
+ 
 auto menu(ForwardList &) -> void;
 
 auto change_color(col c) -> void;
