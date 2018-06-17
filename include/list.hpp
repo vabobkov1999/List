@@ -2,7 +2,7 @@ enum class col { BLUE, GREEN, WHITE, RED, CYAN };
 namespace List {
 struct Node {
   int data;
-  Node* next;
+  Node* next; 
 };
 
 class ForwardList {
